@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "HelloCS"
+		},
+		{
+			"path": "TopLevelProgram"
+		},
+		{
+			"path": "Play_Ground"
+		},
+		{
+			"name": "Chapter01-vscode",
+			"path": "."
+		}
+	]
+}
